@@ -2,7 +2,7 @@
 
 <img align="right" width="150px" src="https://raw.githubusercontent.com/metafunc/winwkit/refs/heads/main/docs/assets/images/winwkit.png" />
 
-**W**inwKit **I**s **N**ot **WebView**, it provides a powerful cross-platform development solution with consistency, high performance and portability.
+**W**inwKit **I**s **N**ot **W**ebView, it provides a powerful cross-platform development solution with consistency, high performance and portability.
 
 - 🤯 **Cross-Platform.** Powerful cross-platform by implementing wasm first and then runtime
 - 🚀 **High-Performance.** Implemented with wasm on rust and native code, the speed is impeccable.
